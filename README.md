@@ -1,0 +1,2 @@
+# kataChallenges
+Code Wars Challenges
