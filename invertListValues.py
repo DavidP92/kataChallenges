@@ -10,3 +10,8 @@ def invert(list):
   for x in range(len(list)):
       list[x] = -list[x]
   return list
+
+
+##Second Solution
+def invert(lst):
+    return [-x for x in lst]
